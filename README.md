@@ -11,5 +11,7 @@ Ferramentas:
   - [typescript](https://www.typescriptlang.org/): ^4.6.3
 
 ---
-![version](https://img.shields.io/github/package-json/v/brhcastro/data-fetching) ![license](https://img.shields.io/github/license/brhcastro/data-fetching)
+![version](https://img.shields.io/github/package-json/v/brhcastro/data-fetching) 
+![license](https://img.shields.io/github/license/brhcastro/data-fetching)
+
 Desenvolvido com ❤️ por [@brhcastro](https://linkedin.com/in/brhcastro).
